@@ -1,44 +1,15 @@
 
 # Project Title
 
+## Introduction
+
+The Data Survey Dashboard is an interactive Power BI project that provides insights into survey data collected from various countries. It visualizes information such as average salaries, favorite programming languages, the number of survey takers, and more. This dashboard is designed to help users understand key trends and patterns in the survey data.
 
 # Data_survey-Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/21b556c9-5aba-4321-95a3-0d845dcbec64/0515c313a31aeb50ad93?experience=power-bi
 
-## Problem Statement
-
-This dashboard provides the details of data survey which provide information about different countries. It provides data about different things like average salary, people's favourite programming language,no. of survey taker based on the survey taken on different countries.
-
-
-
-
-### Steps followed 
-
-- Step 1 : Load data into Power BI Desktop, dataset is a excel file.
-- Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
-- Step 3 : It was observed that in none of the columns errors & empty values were present ".
-- Step 4 : For calculating average salary,favourite programming based on different countries survey, null values were not taken into account as only less than 1% values are null in this colum
-- Step 5 : Visual filters Slicers,cards,piechart,treegraph,donut chart,funnel chart,matrix table were added. 
-           Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.
-           
-           Although, by default, while calculating average, blank values are ignored.
- 
-# Snapshot of Dashboard (Power BI Service)
-
-
-
-
-![DashBoard]
-![data_survey](https://github.com/user-attachments/assets/9f52e7ab-7220-43ba-b02d-605bcfb4a54c)
-
-Introduction
-
-The Data Survey Dashboard is an interactive Power BI project that provides insights into survey data collected from various countries. It visualizes information such as average salaries, favorite programming languages, the number of survey takers, and more. This dashboard is designed to help users understand key trends and patterns in the survey data.
-
-Dashboard Link
-
-Problem Statement
+# Problem Statement
 
 Survey data from multiple countries contains valuable insights, but analyzing such data can be challenging. Key questions include:
 
@@ -50,7 +21,7 @@ What is the demographic breakdown (e.g., age, education level) of survey partici
 
 This project aims to address these questions by creating an easy-to-navigate dashboard that provides meaningful visualizations and insights.
 
-Steps Followed
+# Steps Followed
 
 Data Loading:The dataset was loaded into Power BI Desktop from an Excel file.
 
@@ -78,7 +49,7 @@ Added visual elements including slicers, cards, pie charts, tree maps, donut cha
 
 Used filters to refine the visualizations, ensuring accurate representation of insights.
 
-Results
+## Results
 
 The dashboard provides the following insights:
 
@@ -92,13 +63,17 @@ Work-Life Balance: Ratings on work-life satisfaction.
 
 Ease of Work: Difficulty levels reported by respondents.
 
-
-
-Conclusion
+## Conclusion
 
 The Data Survey Dashboard demonstrates how Power BI can transform raw survey data into actionable insights. By visualizing key metrics, users can identify trends and make informed decisions. This project showcases the power of data visualization in addressing real-world analytical challenges.
 
  
+# Snapshot of Dashboard (Power BI Service)
+
+
+![DashBoard]
+![data_survey](https://github.com/user-attachments/assets/9f52e7ab-7220-43ba-b02d-605bcfb4a54c)
  
 # Survey-Dashboard.md.txt
 Displaying # Survey-Dashboard.md.txt.
+
