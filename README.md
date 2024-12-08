@@ -1,7 +1,7 @@
 
 # Project Title
 
-## Introduction
+# Introduction
 
 The Data Survey Dashboard is an interactive Power BI project that provides insights into survey data collected from various countries. It visualizes information such as average salaries, favorite programming languages, the number of survey takers, and more. This dashboard is designed to help users understand key trends and patterns in the survey data.
 
@@ -13,37 +13,37 @@ The Data Survey Dashboard is an interactive Power BI project that provides insig
 
 Survey data from multiple countries contains valuable insights, but analyzing such data can be challenging. Key questions include:
 
-What is the average salary of professionals across different roles?
+-What is the average salary of professionals across different roles?
 
-Which programming languages are most popular in each region?
+-Which programming languages are most popular in each region?
 
-What is the demographic breakdown (e.g., age, education level) of survey participants?
+-What is the demographic breakdown (e.g., age, education level) of survey participants?
 
 This project aims to address these questions by creating an easy-to-navigate dashboard that provides meaningful visualizations and insights.
 
 # Steps Followed
 
-Data Loading:The dataset was loaded into Power BI Desktop from an Excel file.
+##Data Loading:The dataset was loaded into Power BI Desktop from an Excel file.
 
-Data Preparation:
+## Data Preparation:
 
 Opened the Power Query Editor.
 
 Enabled the "Column Quality" and "Column Profile" options under the View tab to assess data quality.
 
-Data Cleaning:
+## Data Cleaning:
 
 Verified that no columns contained errors or empty values.
 
 Excluded null values for calculating average salaries and programming language preferences, as less than 1% of data points were null.
 
-Data Analysis:
+## Data Analysis:
 
 Calculated metrics such as average salary and programming preferences across different countries.
 
 Ensured blank values were ignored during calculations.
 
-Visualization:
+## Visualization:
 
 Added visual elements including slicers, cards, pie charts, tree maps, donut charts, funnel charts, and matrix tables.
 
