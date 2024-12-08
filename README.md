@@ -9,6 +9,7 @@ The Data Survey Dashboard is an interactive Power BI project that provides insig
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/21b556c9-5aba-4321-95a3-0d845dcbec64/0515c313a31aeb50ad93?experience=power-bi
 
+
 # Problem Statement
 
 Survey data from multiple countries contains valuable insights, but analyzing such data can be challenging. Key questions include:
@@ -55,19 +56,16 @@ Used filters to refine the visualizations, ensuring accurate representation of i
 
 The dashboard provides the following insights:
 
-Demographics: Breakdown of survey participants by country, age, and education level.
+## Demographics: Breakdown of survey participants by country, age, and education level.
 
-Average Salaries: Detailed insights into salary ranges by job titles and gender.
+**Average Salaries**: Detailed insights into salary ranges by job titles and gender.
 
-Programming Preferences: Popular programming languages based on survey responses.
+**Programming Preferences**: Popular programming languages based on survey responses.
 
-Work-Life Balance: Ratings on work-life satisfaction.
+**Work-Life Balance**: Ratings on work-life satisfaction.
 
-Ease of Work: Difficulty levels reported by respondents.
+**Ease of Work**: Difficulty levels reported by respondents.
 
-## Conclusion
-
-The Data Survey Dashboard demonstrates how Power BI can transform raw survey data into actionable insights. By visualizing key metrics, users can identify trends and make informed decisions. This project showcases the power of data visualization in addressing real-world analytical challenges.
 
  
 # Snapshot of Dashboard (Power BI Service)
@@ -76,6 +74,8 @@ The Data Survey Dashboard demonstrates how Power BI can transform raw survey dat
 ![DashBoard]
 ![data_survey](https://github.com/user-attachments/assets/9f52e7ab-7220-43ba-b02d-605bcfb4a54c)
  
-# Survey-Dashboard.md.txt
-Displaying # Survey-Dashboard.md.txt.
+
+## Conclusion
+
+The Data Survey Dashboard demonstrates how Power BI can transform raw survey data into actionable insights. By visualizing key metrics, users can identify trends and make informed decisions. This project showcases the power of data visualization in addressing real-world analytical challenges.
 
