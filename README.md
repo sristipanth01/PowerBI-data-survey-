@@ -1,11 +1,10 @@
 
-# Project Title
+# Project Title: Data_survey-Dashboard
 
 # Introduction
 
 The Data Survey Dashboard is an interactive Power BI project that provides insights into survey data collected from various countries. It visualizes information such as average salaries, favorite programming languages, the number of survey takers, and more. This dashboard is designed to help users understand key trends and patterns in the survey data.
 
-# Data_survey-Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/21b556c9-5aba-4321-95a3-0d845dcbec64/0515c313a31aeb50ad93?experience=power-bi
 
