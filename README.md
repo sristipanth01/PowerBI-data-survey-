@@ -6,9 +6,10 @@
 - [Dashboard Link](#dashboard-link)  
 - [Problem Statement](#problem-statement)  
 - [Steps Followed](#steps-followed)  
-- [Results](#results)  
+- [Results](#results)
+- [Snapshot of Dashboard](#snapshot-of-dashboard) 
 - [Conclusion](#conclusion)
-- [Snapshot of Dashboard](#snapshot-of-dashboard)
+
 
 # Introduction
 
