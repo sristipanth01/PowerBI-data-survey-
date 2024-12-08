@@ -55,7 +55,7 @@ Used filters to refine the visualizations, ensuring accurate representation of i
 
 The dashboard provides the following insights:
 
-## Demographics: Breakdown of survey participants by country, age, and education level.
+**Demographics**: Breakdown of survey participants by country, age, and education level.
 
 **Average Salaries**: Detailed insights into salary ranges by job titles and gender.
 
