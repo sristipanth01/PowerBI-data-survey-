@@ -2,8 +2,8 @@
 # Project Title: Data_survey-Dashboard
 
 ## Table of Contents  
-- [Introduction](#introduction)
-- [Dashboard Link](#dashboard-link)
+- [Introduction](#introduction)  
+- [Dashboard Link](#dashboard-link)  
 - [Problem Statement](#problem-statement)  
 - [Steps Followed](#steps-followed)  
 - [Results](#results)  
