@@ -7,7 +7,8 @@
 - [Problem Statement](#problem-statement)  
 - [Steps Followed](#steps-followed)  
 - [Results](#results)  
-- [Conclusion](#conclusion)  
+- [Conclusion](#conclusion)
+- [Snapshot of Dashboard](#snapshot-of-dashboard)
 
 # Introduction
 
@@ -75,7 +76,7 @@ The dashboard provides the following insights:
 
 
  
-# Snapshot of Dashboard (Power BI Service)
+# Snapshot of Dashboard
 
 
 ![DashBoard]
