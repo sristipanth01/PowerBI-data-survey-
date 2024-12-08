@@ -25,31 +25,31 @@ This project aims to address these questions by creating an easy-to-navigate das
 
 ## Data Loading:
 
-The dataset was loaded into Power BI Desktop from an Excel file.
+-The dataset was loaded into Power BI Desktop from an Excel file.
 
 ## Data Preparation:
 
-Opened the Power Query Editor.
+-Opened the Power Query Editor.
 
-Enabled the "Column Quality" and "Column Profile" options under the View tab to assess data quality.
+-Enabled the "Column Quality" and "Column Profile" options under the View tab to assess data quality.
 
 ## Data Cleaning:
 
-Verified that no columns contained errors or empty values.
+-Verified that no columns contained errors or empty values.
 
-Excluded null values for calculating average salaries and programming language preferences, as less than 1% of data points were null.
+-Excluded null values for calculating average salaries and programming language preferences, as less than 1% of data points were null.
 
 ## Data Analysis:
 
-Calculated metrics such as average salary and programming preferences across different countries.
+-Calculated metrics such as average salary and programming preferences across different countries.
 
-Ensured blank values were ignored during calculations.
+-Ensured blank values were ignored during calculations.
 
 ## Visualization:
 
-Added visual elements including slicers, cards, pie charts, tree maps, donut charts, funnel charts, and matrix tables.
+-Added visual elements including slicers, cards, pie charts, tree maps, donut charts, funnel charts, and matrix tables.
 
-Used filters to refine the visualizations, ensuring accurate representation of insights.
+-Used filters to refine the visualizations, ensuring accurate representation of insights.
 
 ## Results
 
