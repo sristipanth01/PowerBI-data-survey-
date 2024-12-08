@@ -23,7 +23,9 @@ This project aims to address these questions by creating an easy-to-navigate das
 
 # Steps Followed
 
-##Data Loading:The dataset was loaded into Power BI Desktop from an Excel file.
+## Data Loading:
+
+The dataset was loaded into Power BI Desktop from an Excel file.
 
 ## Data Preparation:
 
